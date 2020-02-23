@@ -1,0 +1,16 @@
+{
+  "name": "2019-nCov Social Media Monitor",
+  "short_name": "nCov SMM",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#041205",
+  "theme_color": "#0d240e",
+  "icons": [
+    {
+      "src": "/assets/favicon.png",
+      "type": "image/png",
+      "sizes": "800x800"
+    }
+  ]
+}
